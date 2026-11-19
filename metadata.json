@@ -1,0 +1,6 @@
+{
+  "name": "Rasya Ardiansyah — Cosmic Interactive Portfolio",
+  "description": "Portofolio interaktif 3D bertema galaksi oleh Rasya Ardiansyah, Game & App Developer dengan navigasi scroll sinematik, dukungan gestur Android-first, dan notifikasi progres real-time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
